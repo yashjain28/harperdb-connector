@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "http,log,HarperDBConfiguration",
+    "description": "",
+    "name": "HarperDB",
+    "version": 4,
+    "visibility": "system"
+}

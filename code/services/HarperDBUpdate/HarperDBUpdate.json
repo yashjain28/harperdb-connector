@@ -1,0 +1,18 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 5,
+    "dependencies": "log,HarperDB",
+    "execution_timeout": 0,
+    "logging_enabled": "false",
+    "name": "HarperDBUpdate",
+    "params": [
+        "schema",
+        "table",
+        "records",
+        "end_point"
+    ],
+    "permissions": {},
+    "run_user": "",
+    "source": "HarperDBUpdate.js"
+}
